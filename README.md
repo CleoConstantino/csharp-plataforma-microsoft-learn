@@ -21,7 +21,6 @@ Ao inserir o código no Editor do .NET, talvez você tenha observado alteraçõe
 
 Vamos nos concentrar na linha de código a seguir que você escreveu.
 
-C#Copiar
 
 ```
 Console.WriteLine("Hello World!");
